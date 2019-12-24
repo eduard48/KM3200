@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD12_2 Pin=JP1-1
+Removed Pin From Net: NetName=NetD12_1 Pin=R7-1
+Added Pin To Net: NetName=A Pin=JP1-1
+Added Pin To Net: NetName=B Pin=R7-1
+Added Room: Name=sem4200

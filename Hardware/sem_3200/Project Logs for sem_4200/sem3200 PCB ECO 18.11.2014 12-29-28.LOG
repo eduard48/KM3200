@@ -1,0 +1,5 @@
+Added Component: Designator=C18(CAPC2113X13N_0805)
+Added Pin To Net: NetName=+5V_I Pin=C18-1
+Added Pin To Net: NetName=GND_I Pin=C18-2
+Added Member To Class: ClassName=sem4200 Member=Component C18 0.1
+Added Room: Name=sem4200

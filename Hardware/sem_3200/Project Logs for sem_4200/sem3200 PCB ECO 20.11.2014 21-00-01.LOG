@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=A Pin=J1-1
+Removed Pin From Net: NetName=B Pin=J1-2
+Change Component Footprint: Designator=R7 Old Footprint=RESC2113X0805N New Footprint=RES_1206
+Added Component: Designator=D12(SOT23_diod_ESDA)
+Added Component: Designator=R22(RESC2113X0805N)
+Added Component: Designator=R23(RESC2113X0805N)
+Added Pin To Net: NetName=B Pin=D12-1
+Added Pin To Net: NetName=A Pin=D12-2
+Added Pin To Net: NetName=GND_I Pin=D12-3
+Added Pin To Net: NetName=B Pin=R22-2
+Added Pin To Net: NetName=A Pin=R23-2
+Change Net Name : Old Net Name=A New Net Name=NetD12_2
+Change Net Name : Old Net Name=B New Net Name=NetD12_1
+Added Pin To Net: NetName=A Pin=J1-1
+Added Pin To Net: NetName=A Pin=R23-1
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=J1-2
+Added Pin To Net: NetName=B Pin=R22-1
+Added Net: Name=B
+Added Member To Class: ClassName=sem4200 Member=Component D12 ESDA6V1L
+Added Member To Class: ClassName=sem4200 Member=Component R22 10 Om
+Added Member To Class: ClassName=sem4200 Member=Component R23 10 Om
+Added Room: Name=sem4200

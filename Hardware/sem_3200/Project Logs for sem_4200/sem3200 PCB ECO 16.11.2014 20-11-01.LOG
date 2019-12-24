@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=E_GND Pin=J1-3
+Added Component: Designator=F2(Fuse_termo)
+Added Pin To Net: NetName=E_GND Pin=F2-2
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=J1-3
+Added Net: Name=NetF2_1
+Added Member To Class: ClassName=sem4200 Member=Component F2 500mA
+Added Room: Name=sem4200

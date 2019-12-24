@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap_pol1 New DesignItemId=Cap_pol2
+Change Component Footprint: Designator=C1 Old Footprint=Cap_pol_13x25 New Footprint=Cap_2(10x12.5)
+Change Component Comment : Designator=C1 Old Comment=470.0X50V New Comment=220.0x35V
+Added Room: Name=sem4200

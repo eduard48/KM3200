@@ -1,0 +1,5 @@
+Added Component: Designator=R24(RES_1206)
+Added Pin To Net: NetName=+5V_I Pin=R24-1
+Added Pin To Net: NetName=GND_I Pin=R24-2
+Added Member To Class: ClassName=sem4200 Member=Component R24 470 Om
+Added Room: Name=sem4200

@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=DI0 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=DI1 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=DI2 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=+5V Pin=D4-2
+Removed Pin From Net: NetName=DI0 Pin=D4-3
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=+5V Pin=D5-2
+Removed Pin From Net: NetName=DI1 Pin=D5-3
+Removed Pin From Net: NetName=GND Pin=D6-1
+Removed Pin From Net: NetName=+5V Pin=D6-2
+Removed Pin From Net: NetName=DI2 Pin=D6-3
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=DI0 Pin=R8-2
+Removed Pin From Net: NetName=+5V Pin=R9-1
+Removed Pin From Net: NetName=DI0 Pin=R9-2
+Removed Pin From Net: NetName=DI1 Pin=R10-2
+Removed Pin From Net: NetName=+5V Pin=R11-1
+Removed Pin From Net: NetName=DI1 Pin=R11-2
+Removed Pin From Net: NetName=DI2 Pin=R12-2
+Removed Pin From Net: NetName=+5V Pin=R13-1
+Removed Pin From Net: NetName=DI2 Pin=R13-2
+Removed Member From Class: ClassName=sem4200 Member=D4
+Removed Member From Class: ClassName=sem4200 Member=D5
+Removed Member From Class: ClassName=sem4200 Member=D6
+Change Component Footprint: Designator=R8 Old Footprint=RES_1206 New Footprint=Chip2Pin_2010
+Change Component Footprint: Designator=R10 Old Footprint=RES_1206 New Footprint=Chip2Pin_2010
+Change Component Footprint: Designator=R12 Old Footprint=RES_1206 New Footprint=Chip2Pin_2010
+Change Component Comment : Designator=R8 Old Comment=4k7 New Comment=2k7
+Change Component Comment : Designator=R10 Old Comment=4k7 New Comment=2k7
+Change Component Comment : Designator=R12 Old Comment=4k7 New Comment=2k7
+Added Component: Designator=D9(SMB_1)
+Added Component: Designator=D10(SMB_1)
+Added Component: Designator=D11(SMB_1)
+Added Component: Designator=OP1(SOIC127_TPL)
+Added Component: Designator=OP2(SOIC127_TPL)
+Added Component: Designator=OP3(SOIC127_TPL)
+Added Component: Designator=R19(RESC2113X0805N)
+Added Component: Designator=R20(RESC2113X0805N)
+Added Component: Designator=R21(RESC2113X0805N)
+Added Pin To Net: NetName=DIN_0 Pin=D9-1
+Added Pin To Net: NetName=DIN_1 Pin=D10-1
+Added Pin To Net: NetName=DIN_2 Pin=D11-1
+Added Pin To Net: NetName=DI0 Pin=OP1-3
+Added Pin To Net: NetName=+5V Pin=OP1-4
+Added Pin To Net: NetName=DI1 Pin=OP2-3
+Added Pin To Net: NetName=+5V Pin=OP2-4
+Added Pin To Net: NetName=DI2 Pin=OP3-3
+Added Pin To Net: NetName=+5V Pin=OP3-4
+Added Pin To Net: NetName=DI0 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=DI1 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=DI2 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=E_GND Pin=C10-2
+Added Pin To Net: NetName=E_GND Pin=C11-2
+Added Pin To Net: NetName=E_GND Pin=C12-2
+Added Pin To Net: NetName=E_GND Pin=D9-2
+Added Pin To Net: NetName=E_GND Pin=D10-2
+Added Pin To Net: NetName=E_GND Pin=D11-2
+Added Pin To Net: NetName=E_GND Pin=J1-3
+Added Pin To Net: NetName=E_GND Pin=OP1-2
+Added Pin To Net: NetName=E_GND Pin=OP2-2
+Added Pin To Net: NetName=E_GND Pin=OP3-2
+Added Pin To Net: NetName=E_GND Pin=R19-1
+Added Pin To Net: NetName=E_GND Pin=R20-1
+Added Pin To Net: NetName=E_GND Pin=R21-1
+Added Net: Name=E_GND
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=OP1-1
+Added Pin To Net: NetName=NetC10_1 Pin=R8-2
+Added Pin To Net: NetName=NetC10_1 Pin=R19-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=OP2-1
+Added Pin To Net: NetName=NetC11_1 Pin=R10-2
+Added Pin To Net: NetName=NetC11_1 Pin=R20-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=OP3-1
+Added Pin To Net: NetName=NetC12_1 Pin=R12-2
+Added Pin To Net: NetName=NetC12_1 Pin=R21-2
+Added Net: Name=NetC12_1
+Added Member To Class: ClassName=sem4200 Member=Component D9 SMDJ36CA
+Added Member To Class: ClassName=sem4200 Member=Component D10 SMDJ36CA
+Added Member To Class: ClassName=sem4200 Member=Component D11 SMDJ36CA
+Added Member To Class: ClassName=sem4200 Member=Component OP1 TLP281GB
+Added Member To Class: ClassName=sem4200 Member=Component OP2 TLP281GB
+Added Member To Class: ClassName=sem4200 Member=Component OP3 TLP281GB
+Added Member To Class: ClassName=sem4200 Member=Component R19 1k2
+Added Member To Class: ClassName=sem4200 Member=Component R20 1k2
+Added Member To Class: ClassName=sem4200 Member=Component R21 1k2
+Added Room: Name=sem4200

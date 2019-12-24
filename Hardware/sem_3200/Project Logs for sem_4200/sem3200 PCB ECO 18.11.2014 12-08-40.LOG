@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=UC2-6
+Added Pin To Net: NetName=GND_I Pin=UC2-11
+Added Member To Class: ClassName=sem4200 Member=Component P2 TRJ
+Added Room: Name=sem4200
