@@ -8,7 +8,7 @@
 
 >>Версия: 0220
 
-В папке Software проект для AtmelStudio v.6.2
+В папке Firmware проект для AtmelStudio v.6.2
 
 В папке Hardware две платы (контроллер и модуль индикации) для Altium Desinger 2017.
 
