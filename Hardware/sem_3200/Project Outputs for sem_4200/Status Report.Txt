@@ -1,9 +1,19 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [sem_4200.PrjPCB]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [sem3200.PcbDoc]
+   Generated File[sem3200.GTL]
+   Generated File[sem3200.GBL]
+   Generated File[sem3200.GTO]
+   Generated File[sem3200.GTS]
+   Generated File[sem3200.GBS]
+   Generated File[sem3200.GBO]
+   Generated File[sem3200.GM1]
+   Generated File[sem3200.RUL]
+   Generated File[sem3200.EXTREP]
+   Generated File[sem3200.REP]
 
 
-Files Generated   : 0
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 15:00:36 On 05.12.2014
+Finished Output Generation At 23:59:09 On 11.01.2020
